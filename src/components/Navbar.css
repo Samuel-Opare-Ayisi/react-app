@@ -1,0 +1,12 @@
+/* colors */
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+ 
+    
+}
